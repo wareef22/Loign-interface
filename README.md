@@ -3,7 +3,10 @@
 This repository is about creating a login interface
 This is the login interface
 To enter the robot arm control interface page
-![image](https://user-images.githubusercontent.com/85804755/128266488-8001e55e-3cfc-4f57-8af7-11a5b45dc568.png)
+
+
+![image](https://user-images.githubusercontent.com/85804755/128270418-80d5e8a6-2134-467a-8ecf-ac10e8cdeea3.png)
+
 
 When we click login, it takes us to the robot arm control panel page
 
