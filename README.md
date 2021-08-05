@@ -5,7 +5,8 @@ This is the login interface
 To enter the robot arm control interface page
 
 
-![image](https://user-images.githubusercontent.com/85804755/128270418-80d5e8a6-2134-467a-8ecf-ac10e8cdeea3.png)
+![image](https://user-images.githubusercontent.com/85804755/128380340-740efe4c-da06-4864-b475-f7a6c4f3ca97.png)
+
 
 
 When we click login, it takes us to the robot arm control panel page
